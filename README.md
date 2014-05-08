@@ -1,4 +1,4 @@
 valtech
 =======
 
-Social Network Interview exersise.
+Social Network Interview exercise.
